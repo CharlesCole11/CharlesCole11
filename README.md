@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CharlesCole11
+- 👀 I’m interested in machine learning using convolutional neural networks.
+- 🌱 I’m currently learning Python and MATLAB.
+- 📫 How to reach me: on GitHub :)
